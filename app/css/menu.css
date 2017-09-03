@@ -35,9 +35,9 @@ li{
     height: 3em;
 }
 .list03{
-    margin-left: 30%;
-    margin-top:10%;
-    font-size: 1.2em;
+    margin-left: 8%;
+    margin-top:11%;
+    font-size: 1.3em;
     
 
 }
@@ -59,7 +59,7 @@ li{
     float:left;
     margin-right: 1.6em;
     margin-top:1em;
-    font-size: 1.1em;
+    font-size: 1.07em;
 }
 .list08{
     border-top:1px solid #fff;
@@ -77,8 +77,41 @@ li{
     text-decoration: underline;
 }
 
+.badgebuttons{
+    margin-left: -4em;
+    font-size: 0.7em;
+}
 
+.foto3x4{
+    width: 3.8em;
+    height: 3.8em;
+    
+    }
+    .photo3x4{
+        margin-top:1em;
+        margin-left: -1em;
+    }
+    .img-circle{
+        border-radius:50%;
+        border: solid 0.2em #A3CBC6;
+       
+    }
+    .list11{
+        margin-top:0.9em;
+        margin-left: 2.5em;
+        font-size: 1.1em;
+    }
+.list12{
+    margin-top:0.9em;
+    margin-right: 2.5em;
 
+}
+.list13{
+    margin-left:45%;
+}
+.linha {
+    border-top: solid 1px white;
+}
 
 
 
